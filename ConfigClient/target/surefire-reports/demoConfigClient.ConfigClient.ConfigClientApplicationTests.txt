@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: demoConfigClient.ConfigClient.ConfigClientApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.147 sec - in demoConfigClient.ConfigClient.ConfigClientApplicationTests
